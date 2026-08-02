@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1785682991943,
+    "name": "Test User",
+    "phone": "9998887777",
+    "purchases": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "date": "2026-08-02T15:03:11.972Z"
+      }
+    ]
+  },
+  {
+    "id": 1785683504161,
+    "name": "Aahus",
+    "phone": "1234567890",
+    "pincode": "123456",
+    "address": "asw34",
+    "purchases": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "date": "2026-08-02T15:11:46.918Z"
+      },
+      {
+        "productId": 1,
+        "quantity": 1,
+        "date": "2026-08-02T15:11:49.933Z"
+      }
+    ]
+  }
+]
